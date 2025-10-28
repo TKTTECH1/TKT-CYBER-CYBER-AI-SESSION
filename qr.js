@@ -1,5 +1,3 @@
-Here is my qr.js
-
 const { makeid } = require('./gen-id');
 const express = require('express');
 const QRCode = require('qrcode');
