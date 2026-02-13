@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: tunzy-md-pair
+    name:TKT-CYBER-XMD-SESSION
     env: node
     buildCommand: npm install
     startCommand: node server.js
